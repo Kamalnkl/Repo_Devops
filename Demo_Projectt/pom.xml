@@ -16,7 +16,7 @@
 				<configuration>
 
 					<suiteXmlFiles>
-						<suiteXmlFile>C:\Users\kamalakannan\git\Pipeline_Demo\Demo_Projectt\testng.xml</suiteXmlFile>
+						<suiteXmlFile>C:\Users\kamalakannan\git\Repo_Devops\Demo_Projectt\testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
